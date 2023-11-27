@@ -49,6 +49,17 @@ The `MainController.java` file is the controller class associated with the FXML 
 
 - **FXML Logic:** Ensure proper loading and handling of FXML components for a better understanding of JavaFX.
 
+## References
+
+These sources were the building blocks of my code for this project. If you need help understanding any logic:
+
+https://docs.oracle.com/javafx/2/charts/jfxpub-charts.htm
+https://docs.oracle.com/javase/8/docs/api/java/util/Timer.html
+https://www.javaguides.net/2018/09/bubble-sort-algorithm-in-java.html
+https://www.tutorialspoint.com/generate-a-random-array-of-integers-in-java
+https://www.digitalocean.com/community/tutorials/shuffle-array-java
+https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/SortEvent.html
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
